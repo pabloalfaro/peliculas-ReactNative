@@ -1,2 +1,2 @@
-# peliculas-ReactNative
+# Peliculas ReactNative
 Aplicación de películas en React Native
